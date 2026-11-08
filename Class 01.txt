@@ -1,0 +1,13 @@
+DevSecOps-Master-Class-06September-2026
+
+https://www.youtube.com/watch?v=Hbkuk4aJBCw
+
+
+=======================================
+
+https://ubuntu.com/download/server
+
+https://github.com/faizulkhan56/linux-ansible-labs
+
+
+https://github.com/faizulkhan56/linux-ansible-labs/blob/main/docs/virtualbox/01-VIRTUALBOX-2VM-NETWORK-LAB.md

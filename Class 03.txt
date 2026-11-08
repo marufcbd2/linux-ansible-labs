@@ -1,0 +1,5 @@
+1. First Lab 01
+
+for our first linux project please follow the question. You have 2 weeks timeline.Please send me the answer
+https://github.com/faizulkhan56/linux-ansible-labs/blob/main/docs/linux/labs/01-LAB-EXPERIMENT-PROJECT-LINUX-part01.md
+
